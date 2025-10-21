@@ -69,27 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanratul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanratul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanratul&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🗓️ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanratul&bg_color=0D1117&color=70A5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 🔭 Currently
 
 💼 Working on **Amplify eCommerce** – expanding modular B2B & ERP capabilities  
