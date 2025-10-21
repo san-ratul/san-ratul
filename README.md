@@ -72,18 +72,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sanratul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true#gh-dark-mode-only" alt="Saleh's GitHub stats (dark)" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanratul&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages (dark)" height="160" />
-  
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sanratul&show_icons=true&theme=default&hide_border=true&include_all_commits=true#gh-light-mode-only" alt="Saleh's GitHub stats (light)" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanratul&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages (light)" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanratul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanratul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanratul&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Stats (dark)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanratul&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak Stats (light)" />
+  <img src="https://streak-stats.demolab.com?user=sanratul&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -91,8 +85,7 @@
 ## 🗓️ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanratul&bg_color=0D1117&color=70A5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true#gh-dark-mode-only" alt="GitHub Activity Graph (dark)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanratul&bg_color=FFFFFF&color=1f6feb&line=2563eb&point=0b0b0b&area=true&hide_border=true#gh-light-mode-only" alt="GitHub Activity Graph (light)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanratul&bg_color=0D1117&color=70A5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
