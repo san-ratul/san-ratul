@@ -5,10 +5,9 @@
 
 <!-- Typing Intro Animation -->
 <p align="center">
-  <a href="https://www.aboutratul.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Saleh+Ahammed+Noor+Ratul;🚀+Senior+Developer+%26+Project+Manager;💡+I+build+scalable+systems+%26+clean+architectures;🎯+Laravel+%7C+React+%7C+Vue+%7C+Vite+%7C+Inertia.js" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I%27m+Saleh+Ahammed+Noor+Ratul;🚀+Senior+Developer+%26+Project+Manager;💡+I+build+scalable+systems+%26+clean+architectures;🎯+Laravel+%7C+React+%7C+Vue+%7C+Vite+%7C+Inertia.js" alt="Typing SVG">
 </p>
+
 
 ---
 
