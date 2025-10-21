@@ -1,8 +1,9 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanratul&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.aboutratul.com/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi,+I'm+Saleh+Ahammed+Noor+Ratul;Senior+Developer+%26+Project+Manager;Building+Scalable+Systems+%26+Clean+Architectures;Laravel+%7C+React+%7C+Vue+%7C+Vite+%7C+Inertia.js" alt="Typing Animation" />
+  </a>
 </p>
-
 <!-- Typing Intro Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I%27m+Saleh+Ahammed+Noor+Ratul;🚀+Senior+Developer+%26+Project+Manager;💡+I+build+scalable+systems+%26+clean+architectures;🎯+Laravel+%7C+React+%7C+Vue+%7C+Vite+%7C+Inertia.js" alt="Typing SVG">
