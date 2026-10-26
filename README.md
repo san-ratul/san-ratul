@@ -1,7 +1,9 @@
+ 
 <!-- Profile Header -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanratul&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
 <!-- Typing Intro Animation -->
 <p align="center">
   <a href="https://www.aboutratul.com/" target="_blank">
@@ -9,17 +11,48 @@
   </a>
 </p>
 
+<!-- Fiverr CTA -->
+<p align="center">
+  <a href="https://www.fiverr.com/san_ratul19/fix-and-develop-laravel-and-vuejs-based-application">
+    <img src="https://img.shields.io/badge/Hire_Me_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
+  </a>
+  <a href="https://www.aboutratul.com/">
+    <img src="https://img.shields.io/badge/Visit-My_Portfolio-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Need help with a Laravel, Vue.js, or React project?</b><br/>
+  I can help fix bugs, add features, integrate APIs, and develop full-stack web applications.
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Currently working at **EasyAsk LTD** & **Musketeers Idea Ltd**
-- ⚙️ Building enterprise-grade **ERP**, **eCommerce**, and **Accounting** systems using **Laravel**
+- 💼 Senior Developer & Project Manager with experience in enterprise software development
+- ⚙️ Building enterprise-grade **ERP**, **eCommerce**, and **Accounting** systems using Laravel
 - 💡 Experienced in **React**, **Vue 3**, **Inertia.js**, and **Vite**
-- 🧩 Focused on performance optimization, database indexing, and modular system design  
-- 🖥️ Also love building dev utilities and interactive front-end tools  
-- 🎮 Hardware enthusiast & PC builder — exploring performance tuning and GPU benchmarking
+- 🧩 Focused on performance optimization, database indexing, and modular system design
+- 🔧 Available for **Laravel bug fixing, feature development, API integration, and full-stack web applications**
+- 🌍 Working with international clients and open to suitable freelance projects
+- 🖥️ Hardware enthusiast & PC builder — exploring performance tuning and GPU benchmarking
+
+### 🚀 Development Services
+
+| Service | What I can help with |
+|---|---|
+| Laravel Development | Backend features, business logic, and web applications |
+| Bug Fixing & Maintenance | Diagnose errors, resolve bugs, and improve existing projects |
+| API Development | REST API development, authentication, and third-party integrations |
+| Vue.js & React | Interactive frontends and dashboard development |
+| Full-Stack Applications | Connect frontend, backend, and database into a complete solution |
+
+<p align="center">
+  <a href="https://www.fiverr.com/san_ratul19/fix-and-develop-laravel-and-vuejs-based-application">
+    <img src="https://img.shields.io/badge/Discuss_Your_Project-on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Discuss your project on Fiverr" />
+  </a>
+</p>
 
 ---
 
@@ -49,10 +82,10 @@
 
 ## 📦 Featured Projects
 
-- 🏢 **Amplify eCommerce** – B2B platform powering industrial distributors (e.g., DKLOK, Nudraulix)  
-- 🧾 **MI ERP / MI Account** – Multi-company accounting & ledger management system  
-- 🧰 **SMTP Config Tester** – React app for validating mail configurations  
-- 💸 **Splitta** – A Splitwise-inspired expense sharing app  
+- 🏢 **Amplify eCommerce** – B2B platform powering industrial distributors (e.g., DKLOK, Nudraulix)
+- 🧾 **MI ERP / MI Account** – Multi-company accounting and ledger management
+- 🧰 **SMTP Config Tester** – React app for validating mail configurations
+- 💸 **Splitta** – A Splitwise-inspired expense-sharing application
 
 ---
 
@@ -61,6 +94,7 @@
 📧 **Email:** [salehahammednoor@gmail.com](mailto:salehahammednoor@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/san-ratul](https://www.linkedin.com/in/san-ratul/)  
 🌍 **Portfolio:** [aboutratul.com](https://www.aboutratul.com/)  
+💚 **Fiverr:** [Hire me for Laravel & Full-Stack Development](https://www.fiverr.com/san_ratul19/fix-and-develop-laravel-and-vuejs-based-application)  
 📘 **Facebook:** [facebook.com/san.ratul](https://www.facebook.com/san.ratul/)
 
 ---
@@ -73,8 +107,13 @@
 
 💼 Working on **Amplify eCommerce** – expanding modular B2B & ERP capabilities  
 🧠 Learning **Next.js** and **TypeScript** for modern full-stack development  
-🤝 Open to collaboration on **Laravel**, **React**, or **performance optimization** projects  
+🤝 Open to collaboration on **Laravel**, **React**, and performance optimization projects
 
 ---
 
-⭐️ _“Strive for performance, design for scalability, and code with clarity.”_
+<p align="center">
+  <b>Have a Laravel or full-stack project in mind?</b><br/>
+  <a href="https://www.fiverr.com/san_ratul19/fix-and-develop-laravel-and-vuejs-based-application">Let's discuss your project on Fiverr.</a>
+</p>
+
+⭐️ _"Strive for performance, design for scalability, and code with clarity."_
